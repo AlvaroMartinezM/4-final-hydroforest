@@ -66,5 +66,6 @@ We follow a structured Git workflow to maintain code quality and organization.
 - Download VS code
 - Clone the git repo
 
-We hope you enjoy working on Hydroforest and welcome any and all contributors!
+Thank you, and we hope you enjoy working on Hydroforest and welcome to the team!
+
 
