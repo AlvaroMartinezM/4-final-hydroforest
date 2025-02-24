@@ -31,3 +31,4 @@ Our team follows an **Agile approach**, focusing on building core functionality 
 If you are interested in contributing? Check out our [CONTRIBUTING.md](https://github.com/agiledev-students-spring2025/4-final-hydroforest/blob/master/CONTRIBUTING.md) for guidelines on how to get involved.
 
 Thank you!
+
